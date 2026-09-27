@@ -1,0 +1,1627 @@
+[
+  {
+    "crossing": "27th and NE Pkwy",
+    "video_filename": "2024-02-10_03-20-40 - Trim 1.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 12,
+    "duration_sec": 12,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "27th and NE Pkwy",
+    "video_filename": "2024-02-10_03-20-40 - Trim 1.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 12,
+    "end_sec": 258,
+    "duration_sec": 246,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "27th and NE Pkwy",
+    "video_filename": "2024-02-10_03-20-40 - Trim 1.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 258,
+    "end_sec": 276,
+    "duration_sec": 18,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "27th and NE Pkwy",
+    "video_filename": "2024-02-10_03-20-40 - Trim 1.mp4",
+    "phase": "post_event",
+    "start_sec": 276,
+    "end_sec": 308.1,
+    "duration_sec": 32.1,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 1.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 26,
+    "duration_sec": 26,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 1.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 26,
+    "end_sec": 41,
+    "duration_sec": 15,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 1.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 41,
+    "end_sec": 195,
+    "duration_sec": 154,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 1.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 195,
+    "end_sec": 210,
+    "duration_sec": 15,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 1.mp4",
+    "phase": "post_event",
+    "start_sec": 210,
+    "end_sec": 224.8,
+    "duration_sec": 14.8,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 10.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 0,
+    "end_sec": 78,
+    "duration_sec": 78,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 10.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 78,
+    "end_sec": 93,
+    "duration_sec": 15,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 10.mp4",
+    "phase": "post_event",
+    "start_sec": 93,
+    "end_sec": 101.5,
+    "duration_sec": 8.5,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 11.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 1,
+    "duration_sec": 1,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 11.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 1,
+    "end_sec": 139,
+    "duration_sec": 138,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 11.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 139,
+    "end_sec": 153,
+    "duration_sec": 14,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 11.mp4",
+    "phase": "post_event",
+    "start_sec": 153,
+    "end_sec": 157.6,
+    "duration_sec": 4.6,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 12.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 7,
+    "duration_sec": 7,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 12.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 7,
+    "end_sec": 329,
+    "duration_sec": 322,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 12.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 329,
+    "end_sec": 349,
+    "duration_sec": 20,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 12.mp4",
+    "phase": "post_event",
+    "start_sec": 349,
+    "end_sec": 360.8,
+    "duration_sec": 11.8,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 5.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 36,
+    "duration_sec": 36,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 5.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 36,
+    "end_sec": 51,
+    "duration_sec": 15,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 5.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 51,
+    "end_sec": 249,
+    "duration_sec": 198,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 5.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 249,
+    "end_sec": 266,
+    "duration_sec": 17,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 5.mp4",
+    "phase": "post_event",
+    "start_sec": 266,
+    "end_sec": 453.8,
+    "duration_sec": 187.8,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 6.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 0,
+    "end_sec": 15,
+    "duration_sec": 15,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 6.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 15,
+    "end_sec": 33,
+    "duration_sec": 18,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 6.mp4",
+    "phase": "post_event",
+    "start_sec": 33,
+    "end_sec": 37.8,
+    "duration_sec": 4.8,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 7.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 9,
+    "duration_sec": 9,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 7.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 9,
+    "end_sec": 182,
+    "duration_sec": 173,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 7.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 182,
+    "end_sec": 198,
+    "duration_sec": 16,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 7.mp4",
+    "phase": "post_event",
+    "start_sec": 198,
+    "end_sec": 219.4,
+    "duration_sec": 21.4,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 9.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 8,
+    "duration_sec": 8,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 9.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 8,
+    "end_sec": 171,
+    "duration_sec": 163,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 9.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 171,
+    "end_sec": 188,
+    "duration_sec": 17,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_03-20-23 - Trim 9.mp4",
+    "phase": "post_event",
+    "start_sec": 188,
+    "end_sec": 189.4,
+    "duration_sec": 1.4,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 1.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 3,
+    "duration_sec": 3,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 1.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 3,
+    "end_sec": 192,
+    "duration_sec": 189,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 1.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 192,
+    "end_sec": 210,
+    "duration_sec": 18,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 10.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 10.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 13,
+    "end_sec": 96,
+    "duration_sec": 83,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 10.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 96,
+    "end_sec": 110,
+    "duration_sec": 14,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 10.mp4",
+    "phase": "post_event",
+    "start_sec": 110,
+    "end_sec": 128.5,
+    "duration_sec": 18.5,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 11.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 11.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 13,
+    "end_sec": 620,
+    "duration_sec": 607,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 11.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 620,
+    "end_sec": 641,
+    "duration_sec": 21,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 11.mp4",
+    "phase": "post_event",
+    "start_sec": 641,
+    "end_sec": 680.9,
+    "duration_sec": 39.9,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 12.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 12,
+    "duration_sec": 12,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 12.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 12,
+    "end_sec": 187,
+    "duration_sec": 175,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 12.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 187,
+    "end_sec": 205,
+    "duration_sec": 18,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 12.mp4",
+    "phase": "post_event",
+    "start_sec": 205,
+    "end_sec": 268.9,
+    "duration_sec": 63.9,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 13.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 12,
+    "duration_sec": 12,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 13.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 12,
+    "end_sec": 105,
+    "duration_sec": 93,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 13.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 105,
+    "end_sec": 120,
+    "duration_sec": 15,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 13.mp4",
+    "phase": "post_event",
+    "start_sec": 120,
+    "end_sec": 149.3,
+    "duration_sec": 29.3,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 14.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 0,
+    "end_sec": 272,
+    "duration_sec": 272,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 14.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 272,
+    "end_sec": 291,
+    "duration_sec": 19,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 14.mp4",
+    "phase": "post_event",
+    "start_sec": 291,
+    "end_sec": 321.0,
+    "duration_sec": 30.0,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 15.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 15.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 13,
+    "end_sec": 208,
+    "duration_sec": 195,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 15.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 208,
+    "end_sec": 224,
+    "duration_sec": 16,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 15.mp4",
+    "phase": "post_event",
+    "start_sec": 224,
+    "end_sec": 279.5,
+    "duration_sec": 55.5,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 2.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 3,
+    "duration_sec": 3,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 2.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 3,
+    "end_sec": 34,
+    "duration_sec": 31,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 2.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 34,
+    "end_sec": 51,
+    "duration_sec": 17,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 2.mp4",
+    "phase": "post_event",
+    "start_sec": 51,
+    "end_sec": 56.7,
+    "duration_sec": 5.7,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 3.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 10,
+    "duration_sec": 10,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 3.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 10,
+    "end_sec": 198,
+    "duration_sec": 188,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 3.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 198,
+    "end_sec": 215,
+    "duration_sec": 17,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 4.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 9,
+    "duration_sec": 9,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 4.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 9,
+    "end_sec": 37,
+    "duration_sec": 28,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 4.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 37,
+    "end_sec": 52,
+    "duration_sec": 15,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 4.mp4",
+    "phase": "post_event",
+    "start_sec": 52,
+    "end_sec": 62.7,
+    "duration_sec": 10.7,
+    "time_of_day": "off_peak",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 5.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 5,
+    "duration_sec": 5,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 5.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 5,
+    "end_sec": 20,
+    "duration_sec": 15,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 5.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 20,
+    "end_sec": 130,
+    "duration_sec": 110,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 5.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 130,
+    "end_sec": 146,
+    "duration_sec": 16,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 5.mp4",
+    "phase": "post_event",
+    "start_sec": 146,
+    "end_sec": 146.9,
+    "duration_sec": 0.9,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 6.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 6.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 13,
+    "end_sec": 179,
+    "duration_sec": 166,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 6.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 179,
+    "end_sec": 196,
+    "duration_sec": 17,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 6.mp4",
+    "phase": "post_event",
+    "start_sec": 196,
+    "end_sec": 214.4,
+    "duration_sec": 18.4,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 7.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 14,
+    "duration_sec": 14,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 7.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 14,
+    "end_sec": 149,
+    "duration_sec": 135,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 7.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 149,
+    "end_sec": 166,
+    "duration_sec": 17,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 7.mp4",
+    "phase": "post_event",
+    "start_sec": 166,
+    "end_sec": 180.3,
+    "duration_sec": 14.3,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 8.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 14,
+    "duration_sec": 14,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 8.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 14,
+    "end_sec": 191,
+    "duration_sec": 177,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 8.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 191,
+    "end_sec": 209,
+    "duration_sec": 18,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 8.mp4",
+    "phase": "post_event",
+    "start_sec": 209,
+    "end_sec": 229.5,
+    "duration_sec": 20.5,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 9.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 12,
+    "duration_sec": 12,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 9.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 12,
+    "end_sec": 179,
+    "duration_sec": 167,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 9.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 179,
+    "end_sec": 197,
+    "duration_sec": 18,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "35th and Cornhusker Hwy",
+    "video_filename": "2024-02-10_15-10-43 - Trim 9.mp4",
+    "phase": "post_event",
+    "start_sec": 197,
+    "end_sec": 226.6,
+    "duration_sec": 29.6,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "56 & Old Cheney",
+    "video_filename": "2024-02-12_16-24-58 - Trim 1.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 84,
+    "duration_sec": 84,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "56 & Old Cheney",
+    "video_filename": "2024-02-12_16-24-58 - Trim 1.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 84,
+    "end_sec": 98,
+    "duration_sec": 14,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "56 & Old Cheney",
+    "video_filename": "2024-02-12_16-24-58 - Trim 1.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 98,
+    "end_sec": 366,
+    "duration_sec": 268,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "56 & Old Cheney",
+    "video_filename": "2024-02-12_16-24-58 - Trim 1.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 366,
+    "end_sec": 376,
+    "duration_sec": 10,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "56 & Old Cheney",
+    "video_filename": "2024-02-12_16-24-58 - Trim 1.mp4",
+    "phase": "post_event",
+    "start_sec": 376,
+    "end_sec": 829.6,
+    "duration_sec": 453.6,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 1.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 1.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 13,
+    "end_sec": 211,
+    "duration_sec": 198,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 1.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 211,
+    "end_sec": 227,
+    "duration_sec": 16,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 1.mp4",
+    "phase": "post_event",
+    "start_sec": 227,
+    "end_sec": 272.4,
+    "duration_sec": 45.4,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 2.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 63,
+    "duration_sec": 63,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 2.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 63,
+    "end_sec": 78,
+    "duration_sec": 15,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 2.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 78,
+    "end_sec": 225,
+    "duration_sec": 147,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 2.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 225,
+    "end_sec": 240,
+    "duration_sec": 15,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-14_14-58-11 - Trim 2.mp4",
+    "phase": "post_event",
+    "start_sec": 240,
+    "end_sec": 251.7,
+    "duration_sec": 11.7,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 1.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 14,
+    "duration_sec": 14,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 1.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 14,
+    "end_sec": 30,
+    "duration_sec": 16,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 1.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 30,
+    "end_sec": 93,
+    "duration_sec": 63,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 1.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 93,
+    "end_sec": 124,
+    "duration_sec": 31,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 1.mp4",
+    "phase": "post_event",
+    "start_sec": 124,
+    "end_sec": 158.3,
+    "duration_sec": 34.3,
+    "time_of_day": "morning_rush",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 2.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 13,
+    "duration_sec": 13,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 2.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 13,
+    "end_sec": 76,
+    "duration_sec": 63,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 2.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 76,
+    "end_sec": 90,
+    "duration_sec": 14,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 2.mp4",
+    "phase": "post_event",
+    "start_sec": 90,
+    "end_sec": 95.2,
+    "duration_sec": 5.2,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 3.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 0,
+    "end_sec": 12,
+    "duration_sec": 12,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 3.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 12,
+    "end_sec": 247,
+    "duration_sec": 235,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 3.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 247,
+    "end_sec": 260,
+    "duration_sec": 13,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 3.mp4",
+    "phase": "post_event",
+    "start_sec": 260,
+    "end_sec": 284.9,
+    "duration_sec": 24.9,
+    "time_of_day": "midday",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 1
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 4.mp4",
+    "phase": "pre_event",
+    "start_sec": 0,
+    "end_sec": 19,
+    "duration_sec": 19,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 4.mp4",
+    "phase": "phase_a_approach",
+    "start_sec": 19,
+    "end_sec": 33,
+    "duration_sec": 14,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 4.mp4",
+    "phase": "phase_b_waiting",
+    "start_sec": 33,
+    "end_sec": 150,
+    "duration_sec": 117,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  },
+  {
+    "crossing": "NW 12th & Cornhusker",
+    "video_filename": "2024-02-16_12-18-46 - Trim 4.mp4",
+    "phase": "phase_c_clearance",
+    "start_sec": 150,
+    "end_sec": 164,
+    "duration_sec": 14,
+    "time_of_day": "afternoon_evening",
+    "embedding_shape": [
+      768
+    ],
+    "gpu_used": 0
+  }
+]

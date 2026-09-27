@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*_backup.ipynb
+
+# Raw videos and generated data (not distributed)
+*.mp4
+*.pkl
+*.h5
+
+# Reference PDFs
+*.pdf
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
